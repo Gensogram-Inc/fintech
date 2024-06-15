@@ -1,1 +1,2 @@
 A new content
+I want to create a merge conflict
